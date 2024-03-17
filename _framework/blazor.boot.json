@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Countdown.BlazorWasm",
   "resources": {
-    "hash": "sha256-muL1rUprLI/S4XCvLEsE898sOvlqyajj4s0Tu4Fy6N0=",
+    "hash": "sha256-/UJnv11vQIwmVVnCVnfhQNXmC5CQG0h79xbY5rtjii0=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.p7a4gjdhqk.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Countdown.BlazorWasm.wasm": "sha256-iU8PdhD2CKniShaCbQphxeFGs7LkiK3XBYGiR33eQtk=",
+      "Countdown.BlazorWasm.wasm": "sha256-56gQkd2wSu3aGoJXq0LgNvhwv6wGb5ZG0xs44tlxbIY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Mook6tortGhsxIcuDz2gw2vut0aiDvZiS3Btf734f/A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+AeGjj5Wt7MXCBN/RE7iGr6POmyixEMA42E+6DHDetM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-d6tN87QrJstiTMcLaUtZ6TWiNHa8A74Suuzx95thRrE=",
